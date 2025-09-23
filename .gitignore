@@ -32,4 +32,10 @@ __*
 # vscode debug logs
 debug.log
 app.log
+<<<<<<< HEAD
 >>>>>>> c74d16ce18d9e69fab1ea45659fb0e0b462db60f
+=======
+
+# AI rules
+.*/rules
+>>>>>>> 2622cf326168d0862ea52587d3411af3444d1512
