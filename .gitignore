@@ -29,4 +29,9 @@ yarn-error.log*
 debug.log
 app.log
 # AI rules
+<<<<<<< HEAD
 .*/rules
+=======
+.*/rules
+AGENTS.md
+>>>>>>> upstream/main
