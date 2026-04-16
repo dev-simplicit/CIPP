@@ -30,9 +30,11 @@ yarn-error.log*
 debug.log
 app.log
 # AI rules
-<<<<<<< HEAD
-.*/rules
-=======
 .*/rules
 AGENTS.md
->>>>>>> upstream/main
+# jetbrains
+.idea
+
+# azurite
+__*
+AzuriteConfig
